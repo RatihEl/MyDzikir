@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MyDzikir</string>
+    <string name="tv_hadiszikir">Wahai orang-orang yang beriman! Ingatlah kepada Allah, dengan mengingat (nama-Nya) sebanyak-banyaknya,\ndan bertasbihlah kepada-Nya pada waktu pagi dan petang.\n(Qs : Al - Ahzab : 41-42)</string>
+    <string name="hadis_dzikir">Wahai orang-orang yang beriman! Ingatlah kepada Allah, dengan mengingat (nama-Nya) sebanyak-banyaknya, dan bertasbihlah kepada-Nya pada waktu pagi dan petang. (Qs : Al - Ahzab : 41-42)</string>
+    <string name="anjuran_hadis">Wahai orang-orang yang beriman! Ingatlah kepada Allah, dengan mengingat (nama-Nya) sebanyak-banyaknya, dan bertasbihlah kepada-Nya pada waktu pagi dan petang. (Qs : Al - Ahzab : 41-42)</string>
+    <string name="hadis_utama">Wahai orang-orang yang beriman! Ingatlah kepada Allah, dengan mengingat (nama-Nya) sebanyak-banyaknya,dan bertasbihlah kepada-Nya pada waktu pagi dan petang.\n(Qs : Al - Ahzab : 41-42)</string>
+    <string name="dzikir">Dzikir</string>
+    <string name="sore">Sore</string>
+    <string name="pagi">Pagi</string>
+    <string name="title">Title</string>
+    <string name="arab">Arab</string>
+    <string name="indo">Indo</string>
+</resources>
